@@ -196,23 +196,6 @@ Final Model             → Train on full dataset → save to disk
 
 ---
 
-## 🎓 For Your Graduation Report
-
-> *"CyberShield ML Detection implements a machine learning-based intrusion detection system trained on the CIC-IDS2017 benchmark dataset. Three ensemble classifiers — Random Forest, XGBoost, and LightGBM — are evaluated using Stratified 5-Fold Cross-Validation to prevent data leakage and produce statistically reliable performance estimates across six metrics: Accuracy, F1-Score, Precision, Recall, AUC-ROC, and MCC. LightGBM achieves the best results with 99.97% F1-Score and the fastest training time of 4.7 seconds."*
-
----
-
-## 👥 Team
-
-| Person | Module | Files |
-|---|---|---|
-| Person 1 | Data Loading & Analysis | `loader.py`, `overview.py` |
-| Person 2 | Data Preprocessing | `preprocessor.py`, `config.py` |
-| Person 3 | Model Training & Evaluation | `trainer.py`, `evaluator.py`, `training.py` |
-| Person 4 | Dashboard & Visualization | `comparison.py`, `analytics.py`, `app.py` |
-
----
-
 ## 📄 License
 
 Academic use only. Dataset courtesy of the **Canadian Institute for Cybersecurity**, University of New Brunswick.
@@ -221,8 +204,6 @@ Academic use only. Dataset courtesy of the **Canadian Institute for Cybersecurit
 
 <div align="center">
 
-**CyberShield ML Detection** — Graduation Project 2025/2026
-
-*Machine Learning & Big Data*
+**CyberShield ML Detection** — *Machine Learning & Big Data*  Project 2025/2026
 
 </div>
