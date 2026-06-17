@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+*.pkl
+*.joblib
+*.db
+saved_models/
+datasets/
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
