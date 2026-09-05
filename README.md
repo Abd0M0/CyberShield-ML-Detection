@@ -17,7 +17,7 @@
 
 ## 📌 What Is This?
 
-**CyberShield ML Detection** is a machine learning-based **Network Intrusion Detection System (NIDS)** built entirely in Python. It trains and compares three machine learning classifiers on the real-world **CIC-IDS2017** network traffic dataset, classifying flows as `BENIGN` or attack traffic with full performance analysis through an interactive 4-tab dashboard.
+**CyberShield ML Detection** is a machine learning-based **Network Intrusion Detection System (NIDS)** built entirely in Python. It trains and compares three machine learning classifiers on the real-world **CIC-IDS2017** network traffic dataset, classifying flows as `BENIGN` or `ATTACK` traffic with full performance analysis through an interactive 4-tab dashboard.
 
 ---
 
