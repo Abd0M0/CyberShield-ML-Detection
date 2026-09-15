@@ -196,12 +196,6 @@ Final Model             → Train on full dataset → save to disk
 
 ---
 
-## 📄 License
-
-Academic use only. Dataset courtesy of the **Canadian Institute for Cybersecurity**, University of New Brunswick.
-
----
-
 <div align="center">
 
 **CyberShield ML Detection** — *Machine Learning & Big Data*  Project 2025/2026
